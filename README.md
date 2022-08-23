@@ -1,1 +1,1 @@
-my first readme
+ALX Software Engineering program is so cool!
